@@ -182,7 +182,6 @@ class MyApp extends StatelessWidget {
                 onTap: () {
                   print('둘러보기 is clicked');
                 },
-                //trailing: const Icon(Icons.add),
               )
             ]
           )
